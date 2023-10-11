@@ -1,5 +1,5 @@
 # Redux_Demos
-#### Redux scratch to hero code in this file for react store process!!!
+#### Redux scratch to hero code in this file for react store process!!
 simple store process!!
 
 - one_reducer.js  : Reducer is a function that accepts the state & action as parameter & returns a new state!
